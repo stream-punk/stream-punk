@@ -19,6 +19,6 @@
     * [tmux](https://github.com/tmux/tmux)
     * [alacritty](https://github.com/alacritty/alacritty)
 
-I fully own copyright of my [avatar](streampunk.jpg) and any website may display
-it as my [avatar](streampunk.jpg). It was made by
+I fully own the copyright of my [avatar](streampunk.jpg) and any website may
+display it as my [avatar](streampunk.jpg). It was made by
 [boomi_art](https://www.fiverr.com/boomi_art), thanks a lot.
